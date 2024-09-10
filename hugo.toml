@@ -1,4 +1,34 @@
 baseURL = 'https://beta.rtward.com/'
 languageCode = 'en-us'
 title = 'Robert Ward'
-theme = 'ananke'
+theme = 'hermit-v2'
+
+[params]
+dateform = "2006-01-02"
+dateformShort = "2006-01-02"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04 -0700"
+footerCopyright = "CC BY-SA 4.0"
+
+[params.author]
+name = "Robert Ward"
+about = "Beep Boop"
+
+[[params.socialLinks]]
+name = "mastodon"
+url = "https://mastodon.social/@rtward"
+[[params.socialLinks]]
+name = "github"
+url = "https://github.com/rtward"
+[[params.socialLinks]]
+name = "bluesky"
+url = "https://bsky.app/profile/rtward.com"
+[[params.socialLinks]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/rtward/"
+
+[menu]
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 20
