@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://beta.rtward.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Robert Ward'
 theme = 'ananke'
