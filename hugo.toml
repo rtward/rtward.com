@@ -12,7 +12,6 @@ footerCopyright = "CC BY-SA 4.0"
 
 [params.author]
 name = "Robert Ward"
-about = "Beep Boop"
 
 [[params.socialLinks]]
 name = "mastodon"
