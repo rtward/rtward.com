@@ -1,4 +1,4 @@
-baseURL = 'https://beta.rtward.com/'
+baseURL = 'https://rtward.com/'
 languageCode = 'en-us'
 title = 'Robert Ward'
 theme = 'hermit-v2'
