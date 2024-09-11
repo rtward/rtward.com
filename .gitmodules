@@ -3,5 +3,5 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/hermit-v2"]
 	path = themes/hermit-v2
-	url = https://github.com/1bl4z3r/hermit-V2
+	url = git@github.com:rtward/hermit-V2.git
 	branch = main

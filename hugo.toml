@@ -25,6 +25,9 @@ url = "https://bsky.app/profile/rtward.com"
 [[params.socialLinks]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/rtward/"
+[[params.socialLinks]]
+name = "reddit"
+url = "https://www.reddit.com/user/rtward/"
 
 [menu]
 [[menu.main]]
