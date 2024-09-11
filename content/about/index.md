@@ -2,7 +2,7 @@
 title = 'About Me'
 +++
 
-{{< figure src="me.png" caption="A younger, thinner me in Greece in 2018" width="500" >}}
+{{< figure src="me.png" caption="A younger, thinner me in Greece in 2018" width="250" >}}
 
 My name is Robert Ward, I'm a software developer living in St. Louis.
 
